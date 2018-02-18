@@ -1,0 +1,9 @@
+{
+  "token": "Mzg1ODMzOTk4MTA4MTk2ODY5.DWiMXg.nDt4CxERUZhgdEATlbDZnhnb2YY",
+  "choices": [
+    { "role": "DotA", "emoji": "DotA" },
+    { "role": "Ark", "emoji": "Ark" },
+    { "role": "PUBG", "emoji": "PUBG" },	
+    { "role": "Rocket League", "emoji": "RocketLeague" }
+  ]
+}
